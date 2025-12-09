@@ -1,2 +1,3 @@
 # Latihan-Git
-Belajar
+Nama: Ganjar Rizki Anugrah
+NIM: 1324059
